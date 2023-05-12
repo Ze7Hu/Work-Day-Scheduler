@@ -5,7 +5,7 @@ Create a simple calendar application that allows a user to save events for each 
 
 ## Github Pages
 
-Locate the deployed application here[]
+Locate the deployed application here[https://ze7hu.github.io/Work-Day-Scheduler/]
 
 ## Description
 This calender application will allow employees with busy schedules to add and save important events on their daily planner so that they can manage their time efficiently.
