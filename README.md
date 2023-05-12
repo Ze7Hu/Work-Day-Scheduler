@@ -20,8 +20,8 @@ JQuery
 
 ## Screenshots
 
+<img width="692" alt="Screenshot 2023-05-12 at 11 42 33" src="https://github.com/Ze7Hu/Work-Day-Scheduler/assets/123417090/6cfde27f-14fb-4535-9889-990d81d0d30e">
 
-<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/Work-Day-Scheduler/assets/123417090/ec5693c1-4cc2-42a3-b574-8d6b4f0e2b93">
 
 
 
