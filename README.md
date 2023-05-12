@@ -21,10 +21,8 @@ JQuery
 ## Screenshots
 
 
-<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/worschedule/assets/123417090/3c24857c-4e44-47d2-bda8-db228104fec2">
-
-
-<img width="692" alt="Screenshot 2023-05-12 at 11 42 33" src="https://github.com/Ze7Hu/worschedule/assets/123417090/ff5442f6-e72e-4872-8269-ea1bac4b52c6">
+<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/Work-Day-Scheduler/assets/123417090/ec5693c1-4cc2-42a3-b574-8d6b4f0e2b93">
 
 
 
+<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/Work-Day-Scheduler/assets/123417090/3fc04fd0-7a7d-4702-abe0-2a0a0da8498a">
